@@ -1,0 +1,17 @@
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">{{todo.title}} <span class="badge">{{todo.priority}}</span></h3>
+  </div>
+  <div class="panel-body">
+    {{todo.description}}
+  </div>
+  <div class="panel-footer">{{todo.date}}</div>
+</div>
+<form action="/todo/delete/{{todo.id}}" method="post">
+  <a href="/todo/{{todo.id}}/edit" type="button" class="btn btn-default btn-warning">
+    Edit todo
+  </a>
+  <button type="submit" class="btn btn-default btn-danger">
+    Delete todo
+  </button>
+</form>

@@ -1,0 +1,1000 @@
+ 1102  git status
+ 1103  git add .
+ 1104  git commit -m "Añadido entradas y logout"
+ 1105  git push -f
+ 1106  code .
+ 1107  nodemon bin/www
+ 1108  nodemon www/bin
+ 1109  nodemon bin/www
+ 1110  npm install [-g] shelljs
+ 1111  npm install  shelljs
+ 1112  nodemon bin/www
+ 1113  sudo pkill -f node
+ 1114  nodemon bin/www
+ 1115  sudo pkill -f node
+ 1116  nodemon bin/www
+ 1117  sudo pkill -f nodemon
+ 1118  nodemon bin/www
+ 1119  echo fs.inotify.max_user_watches=582222 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+ 1120  nodemon bin/www
+ 1121  git status
+ 1122  git push -f
+ 1123  nodemon bin/www
+ 1124  sudo pkill -f nodemon
+ 1125  nodemon bin/www
+ 1126  lsof -i tcp:3000
+ 1127  kill -9 223898
+ 1128  nodemon bin/www
+ 1129  git push -f
+ 1130  nodemon bin/www
+ 1131  lsof -i tcp:3000
+ 1132  kill -9 225312
+ 1133  nodemon bin/www
+ 1134  ls
+ 1135  ./crearUser.js 
+ 1136  clear
+ 1137  ./crearUser.js 
+ 1138  sudo snap install --classic heroku
+ 1139  cd /tmp/standalone_test_binary_ADCAM_MID
+ 1140  ./adcam_mid_test_executable sim_config.json 
+ 1141  sudo snap install --classic heroku
+ 1142  snap help refresh
+ 1143  snap login
+ 1144  heroku
+ 1145  heroku logs
+ 1146  heroku login -i
+ 1147  heroku logs --tail placer-saludable
+ 1148  heroku logs --tail
+ 1149  heroku logs --tail --app placer-saludable
+ 1150  clear
+ 1151  git stash
+ 1152  git rebase master
+ 1153  git stash pop
+ 1154  cd ..
+ 1155  code .
+ 1156  cd ..
+ 1157  code .
+ 1158  rpp update-workspace 
+ 1159  cd third_party/
+ 1160  git status
+ 1161  git stash
+ 1162  git status
+ 1163  cd ..
+ 1164  git checkout master
+ 1165  git submodule foreach git checkout .
+ 1166  rpp upgrade-system 
+ 1167  rpp update-workspace 
+ 1168  cd application/adp
+ 1169  git branch
+ 1170  cd ..
+ 1171  git submodule foreach git checkout master
+ 1172  git submodule foreach git pull
+ 1173  cd application/adp/
+ 1174  git branch
+ 1175  git checkout ct_wall_adcam_sm_traces
+ 1176  git stash pop
+ 1177  bazel run --config=platform_ros --config=adp_gcc9 //application/adp/test/service_test/fnt_smoke_test:objects_acc_3v_ahead_smoke_test --//application/adp/test/acceptance_test/common:groundtruth_trace_record
+ 1178  astas_gui
+ 1179  cd ddad/application/adp
+ 1180  code .
+ 1181  bazel test --config=adp_gcc9 application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_tests
+ 1182  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_tests
+ 1183  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_tests --test_output=all
+ 1184  git status
+ 1185  git add .
+ 1186  git status
+ 1187  git commit --amend
+ 1188  git status
+ 1189  bazel run //application/adp/tools/user_local_gate:check_all_basic"
+ 1190  quit
+ 1191  eixt
+ 1192  exit
+ 1193  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1194  git status
+ 1195  git add .
+ 1196  git commit --amend
+ 1197  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1198  git status
+ 1199  git push -f
+ 1200  bazel run --config=platform_ros --config=adp_gcc9 //application/adp/test/service_test/fnt_smoke_test:objects_acc_3v_ahead_smoke_test --//application/adp/test/acceptance_test/common:groundtruth_trace_record
+ 1201  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_tests
+ 1202  git status
+ 1203  git add .
+ 1204  git commit
+ 1205  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1206  git status
+ 1207  git add .
+ 1208  git commit --amend
+ 1209  git status
+ 1210  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1211  git push -f
+ 1212  bazel test  --runs_per_test=10 --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_tests
+ 1213  bazel test  --runs_per_test=100 --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_tests --test_output=all
+ 1214  bazel test  --runs_per_test=100 --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_tests --test_output=all --copt="-O0"
+ 1215  git status
+ 1216  git add .
+ 1217  git commit
+ 1218  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1219  git push -f
+ 1220  git checkout ct_wall_srr_fix_yaml2xml
+ 1221  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1222  git rebase master
+ 1223  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1224  git status
+ 1225  git add .
+ 1226  git commit --amend
+ 1227  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1228  git status
+ 1229  git push -f
+ 1230  git checkout ct_wall_adcam_sm_traces
+ 1231  git status
+ 1232  git add .
+ 1233  git commit
+ 1234  git push -f
+ 1235  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_tests --test_output=all
+ 1236  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:all --test_output=all
+ 1237  git status
+ 1238  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_lane_tests --test_output=all
+ 1239  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_object_tests --test_output=all
+ 1240  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_traffic_light_tests --test_output=all
+ 1241  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_traffic_sign_tests --test_output=all
+ 1242  git status
+ 1243  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_traffic_light_tests --test_output=all
+ 1244  git status
+ 1245  git add .
+ 1246  git commit --amend
+ 1247  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1248  git status
+ 1249  git add .
+ 1250  git commit --amend
+ 1251  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1252  git status
+ 1253  git push -f
+ 1254  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_adapted_fov_config_test_latest --test_output=all
+ 1255  git status
+ 1256  git add .
+ 1257  git commit --amend
+ 1258  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1259  git status
+ 1260  git add .
+ 1261  git commit --amend
+ 1262  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1263  git status
+ 1264  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_adapted_fov_config_test_latest --test_output=all
+ 1265  git status
+ 1266  git push -f
+ 1267  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_traffic_sign_tests --test_output=all
+ 1268  git status
+ 1269  git add .
+ 1270  git commit --amend
+ 1271  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1272  git status
+ 1273  git add .
+ 1274  git commit --amend
+ 1275  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1276  git status
+ 1277  git push -f
+ 1278  history | grep recorder
+ 1279  bazel run --config=adp_gcc9
+ 1280  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/adcam_mid:supplier_adcam_mid_sm2_traffic_light_tests --test_output=all
+ 1281  git status
+ 1282  git add .
+ 1283  git commit --amend
+ 1284  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1285  git push -f
+ 1286  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/sensor_stub_utilities/astas_gt_trace_recorder application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/common/scenarios/obstacle_false_negative.json
+ 1287  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/sensor_stub_utilities/astas_gt_trace_recorder /home/kepa/ddad/application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/common/scenarios/obstacle_false_negative.json
+ 1288  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/sensor_stub_utilities/astas_gt_trace_recorder /home/kepa/ddad/application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/common/scenarios/obstacle_false_positive.json
+ 1289  cd /home/kepa/ddad/application/adp/bmw/simulation/sim_nodes/adcam_mid_stub/src/adcam_mid_stub_activity.cpp
+ 1290  cd /home/kepa/ddad/application/adp/bmw/simulation/sim_nodes/adcam_mid_stub/src
+ 1291  git log adcam_mid_stub_activity.cpp
+ 1292  git status
+ 1293  git add .
+ 1294  git commit
+ 1295  git push -f
+ 1296  node crearDBInventario.js 
+ 1297  astas_gui -c or astas_gui --spectator
+ 1298  cd application/adp
+ 1299  clear
+ 1300  git rebase master
+ 1301  cd ..
+ 1302  code .
+ 1303  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test
+ 1304  code .
+ 1305  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test
+ 1306  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test
+ 1307  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test
+ 1308  git status
+ 1309  cd application/adp
+ 1310  git status
+ 1311  git checkout .
+ 1312  git status
+ 1313  git checkout master
+ 1314  git pull
+ 1315  git status
+ 1316  git checkout ct_wall_refactor_flakiness_srr
+ 1317  bazel run --runs_per_test=100 --config=adp_gcc9 --strip=never //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test -test_strategy=exclusive --define factory=dual --compilation_mode=dbg --copt="-O0"
+ 1318  bazel run --runs_per_test=100 --config=adp_gcc9 --strip=never //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test --test_strategy=exclusive --define factory=dual --compilation_mode=dbg --copt="-O0"
+ 1319  bazel test --compilation_mode=opt --config=adp_gcc9 --config=platform_ros  --experimental_profile_include_target_label --features=-debug_symbols --keep_going  --nobuild_runfile_links --remote_instance_name=local --remote_upload_local_results --remote_timeout=300s --remote_local_fallback=true  --workspace_status_command=/bin/true --explain=/workspace/bazel_explains/explain_bazel_test_adp_fast_tests.txt  --test_timeout=120,600,900,3600  --build_tests_only --cache_test_results=no --runs_per_test=100 --isatty=0 --terminal_columns=80 --incompatible_allow_tags_propagation --incompatible_disable_native_android_rules --incompatible_no_implicit_file_export --incompatible_exclusive_test_sandboxed --incompatible_default_to_explicit_init_py --noincompatible_disable_depset_items --noincompatible_disallow_empty_glob --noincompatible_enable_cc_toolchain_resolution --noincompatible_use_platforms_repo_for_constraints --noincompatible_disable_target_provider_fields --noincompatible_load_cc_rules_from_bzl --noincompatible_load_java_rules_from_bzl --noincompatible_load_proto_rules_from_bzl --noincompatible_load_python_rules_from_bzl --javabase=@bazel_tools//tools/jdk:remote_jdk11 --java_toolchain=@bazel_tools//tools/jdk:remote_toolchain --incompatible_strict_action_env --workspace_status_command=./scripts/workspace_status/workspace_status.sh --test_env=GTEST_COLOR=1 --verbose_failures --sandbox_tmpfs_path=/tmp --host_cxxopt=-std=c++14 --cxxopt=-std=c++14 --define target_platform=ROS --start_end_lib=False --test_env=PYTHONDONTWRITEBYTECODE=1 --define=sct=yes -- //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test
+ 1320  bazel run --runs_per_test=100 --config=adp_gcc9 --strip=never //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test -test_strategy=exclusive --define factory=dual --compilation_mode=dbg --copt="-O0"
+ 1321  ERROR: -test_strategy=exclusive :: Invalid options syntax: -test_strategy=exclusive
+ 1322  bazel run --runs_per_test=100 --config=adp_gcc9 --strip=never //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test --test_strategy=exclusive --define factory=dual --compilation_mode=dbg --copt="-O0"
+ 1323  bazel run --runs_per_test=100 --config=adp_gcc9 --strip=never //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test
+ 1324  bazel test --compilation_mode=opt --config=adp_gcc9 --config=platform_ros  --experimental_profile_include_target_label --features=-debug_symbols --keep_going  --nobuild_runfile_links --remote_instance_name=local --remote_upload_local_results --remote_timeout=300s --remote_local_fallback=true  --workspace_status_command=/bin/true --explain=/workspace/bazel_explains/explain_bazel_test_adp_fast_tests.txt  --test_timeout=120,600,900,3600  --build_tests_only --cache_test_results=no --runs_per_test=100 --isatty=0 --terminal_columns=80 --incompatible_allow_tags_propagation --incompatible_disable_native_android_rules --incompatible_no_implicit_file_export --incompatible_exclusive_test_sandboxed --incompatible_default_to_explicit_init_py --noincompatible_disable_depset_items --noincompatible_disallow_empty_glob --noincompatible_enable_cc_toolchain_resolution --noincompatible_use_platforms_repo_for_constraints --noincompatible_disable_target_provider_fields --noincompatible_load_cc_rules_from_bzl --noincompatible_load_java_rules_from_bzl --noincompatible_load_proto_rules_from_bzl --noincompatible_load_python_rules_from_bzl --javabase=@bazel_tools//tools/jdk:remote_jdk11 --java_toolchain=@bazel_tools//tools/jdk:remote_toolchain --incompatible_strict_action_env --workspace_status_command=./scripts/workspace_status/workspace_status.sh --test_env=GTEST_COLOR=1 --verbose_failures --sandbox_tmpfs_path=/tmp --host_cxxopt=-std=c++14 --cxxopt=-std=c++14 --define target_platform=ROS --start_end_lib=False --test_env=PYTHONDONTWRITEBYTECODE=1 --define=sct=yes -- //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test
+ 1325  cd ..
+ 1326  cd .
+ 1327  cd ..
+ 1328  cd Documents/
+ 1329  git clone https://asc-repo.bmwgroup.net/gerrit/ascgit486.adsmlm-aptiv
+ 1330  roscore
+ 1331  cd ddad/application/adp/
+ 1332  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/sensor_stub_utilities/astas_gt_trace_recorder application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/common/scenarios/stationary_vehicle_false_negative.json
+ 1333  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/sensor_stub_utilities/astas_gt_trace_recorder /home/kepa/ddad/application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/common/scenarios/obstacle_false_positive.json
+ 1334  bazel run --config=adp_gcc9 //application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/component_error_injection_test:obstacle_false_negative_test
+ 1335  git status
+ 1336  git stash
+ 1337  cd ..
+ 1338  git status
+ 1339  cd adp/
+ 1340  git checkout master
+ 1341  git pull
+ 1342  cd ..
+ 1343  rpp update-workspace 
+ 1344  cd application/adp/
+ 1345  git stash pop
+ 1346  bazel run --config=adp_gcc9 //application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/component_error_injection_test:obstacle_false_negative_test
+ 1347  cd ..
+ 1348  git status
+ 1349  git pull
+ 1350  cd third_party/
+ 1351  git pull
+ 1352  cd ..
+ 1353  cd application/adp/
+ 1354  bazel run --config=adp_gcc9 //application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/component_error_injection_test:obstacle_false_negative_test
+ 1355  bazel run --config=adp_gcc9 //application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/component_error_injection_test:obstacle_false_negative_test  --define factory=dual
+ 1356  bazel run --config=adp_gcc9 //application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/component_error_injection_test:obstacle_false_negative_test  --define factory=dual --define osi_debug=true 
+ 1357  cd ..
+ 1358  code .
+ 1359  cd application/adp/
+ 1360  code .
+ 1361  bazel run --config=adp_gcc9 //application/adp/test/evaluation/acceptance_test/synchronized_simulation/astas_feature_tests/component_error_injection_test:obstacle_false_negative_test  --define factory=dual --define osi_debug=true 
+ 1362  git status
+ 1363  git branch
+ 1364  git checkout ct_wall_refactor_srr_flakiness
+ 1365  git checkout -b ct_wall_refactor_srr_flakiness
+ 1366  git status
+ 1367  git add .
+ 1368  git commit
+ 1369  git checkout ct_wall_srr_obj_list_integ_gt_trace
+ 1370  git pull
+ 1371  code .
+ 1372  git checkout .
+ 1373  git reset .
+ 1374  git clean -fd
+ 1375  git checkout master
+ 1376  git status
+ 1377  git checkout .
+ 1378  git status
+ 1379  git checkout master
+ 1380  git branch -D ct_wall_srr_obj_list_integ_gt_trace
+ 1381  git checkout ct_wall_srr_obj_list_integ_gt_trace
+ 1382  code .
+ 1383  bazel run --config=adp_gcc9 //application/adp/bmw/tools/simulation/lime/lime_juicer /home/kepa/ddad/application/adp/bmw/simulation/test_utilities/ground_truth_provider/ground_truth_traces/static/single_lane_with_object/host_with_static_traffic_vehicle.json
+ 1384  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/sensor_stub_utilities/astas_gt_trace_recorder /home/kepa/ddad/application/adp/bmw/simulation/test_utilities/ground_truth_provider/ground_truth_traces/static/single_lane_with_object/host_with_static_traffic_vehicle.json
+ 1385  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test
+ 1386  git status
+ 1387  git commmit 
+ 1388  git commit 
+ 1389  git push -f
+ 1390  git status
+ 1391  git checkout .
+ 1392  git branch
+ 1393  git checkout ct_wall_srr_obj_list_integ_gt_trace
+ 1394  git stash pop
+ 1395  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:all
+ 1396  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test
+ 1397  git status
+ 1398  git stash
+ 1399  git checkout master
+ 1400  git pull
+ 1401  git branch
+ 1402  git checkout ct_wall_srr_obj_list_integ_gt_trace
+ 1403  git rebase master
+ 1404  git rebase --continue
+ 1405  git stash pop
+ 1406  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test
+ 1407  git push -f
+ 1408  git checkout ct_wall_detections_srr_trace
+ 1409  git status
+ 1410  git branch
+ 1411  git checkout ct_wall_srr_obj_list_integ_gt_trace
+ 1412  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1413  git status
+ 1414  git commit --amend
+ 1415  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1416  git status
+ 1417  git push -f
+ 1418  git checkout master
+ 1419  git pull
+ 1420  git checkout ct_wall_detections_srr_trace
+ 1421  git checkout ct_wall_srr_obj_list_integ_gt_trace
+ 1422  bazel test --config=adp_gcc9  //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/internal:sim_srr_mid_stub_integration_test_internal
+ 1423  git status
+ 1424  git commit
+ 1425  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1426  git status
+ 1427  git add .
+ 1428  git commit --amend
+ 1429  git push -f
+ 1430  git rebase -i HEAD~15
+ 1431  git status
+ 1432  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test
+ 1433  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test
+ 1434  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --test_output=all
+ 1435  bazzel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/standalone_test_binary:export_executable
+ 1436  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/standalone_test_binary:export_executable
+ 1437  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/standalone_test_binary:export
+ 1438  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/standalone_test_binary:export --action_env="avariable=1"
+ 1439  ls
+ 1440  ./gtest-parallel-master/gtest-parallel srr_mid_test_executable sim_config.json --repeat=10
+ 1441  ls
+ 1442  ./gtest-parallel-master/gtest-parallel srr_mid_test_executable sim_config.json --repeat=10
+ 1443  ./gtest-parallel srr_mid_test_executable sim_config.json --repeat=10
+ 1444  ls
+ 1445  cd gtest-parallel-master/
+ 1446  ./gtest-parallel srr_mid_test_executable sim_config.json --repeat=10
+ 1447  ./gtest-parallel srr_mid_test_executable  --repeat=10
+ 1448  ./srr_mid_test_executable sim_config.json 
+ 1449  ./gtest-parallel srr_mid_test_executable sim_config.json --repeat=10
+ 1450  ./gtest-parallel /tmp/standalone_test_binary_SRR_MID/gtest-parallel-master/srr_mid_test_executable sim_config.json --repeat=10
+ 1451  ./gtest-parallel --help
+ 1452  cd ..
+ 1453  ./gtest-parallel /tmp/standalone_test_binary_SRR_MID/gtest-parallel-master/srr_mid_test_executable --repeat=10
+ 1454  ls
+ 1455  ls
+ 1456  ./gtest-parallel srr_mid_test_executable  --repeat=10
+ 1457  ./gtest-parallel /tmp/standalone_test_binary_SRR_MID/gtest-parallel-master/srr_mid_test_executable  --repeat=10
+ 1458  ls
+ 1459  ls -rt /tmp/standalone_test_binary_SRR_MID/gtest-parallel-master/srr_mid_test_executable
+ 1460  ls
+ 1461  pwd
+ 1462  ls -rt /tmp/standalone_test_binary_SRR_MID/srr_mid_test_executable
+ 1463  ./gtest-parallel /tmp/standalone_test_binary_SRR_MID/srr_mid_test_executable  --repeat=10
+ 1464  ./gtest-parallel /tmp/standalone_test_binary_SRR_MID/srr_mid_test_executable --repeat=10
+ 1465  ./srr_mid_test_executable 
+ 1466  ls
+ 1467  ./srr_mid_test_executable 
+ 1468  ls
+ 1469  ./srr_mid_test_executable 
+ 1470  git status
+ 1471  git rebase --abort
+ 1472  git rebase -i HEAD~15
+ 1473  git rebase -i HEAD~16
+ 1474  git status
+ 1475  git push -f
+ 1476  ls
+ 1477  ./srr_mid_test_executable 
+ 1478  ./gtest-parallel srr_mid_test_executable --repeat=10
+ 1479  ./gtest-parallel /tmp/standalone_test_binary_SRR_MID/srr_mid_test_executable --repeat=10
+ 1480  ./gtest-parallel /tmp/standalone_test_binary_SRR_MID/srr_mid_test_executable --repeat=10 --test_output=all
+ 1481  taskset --cpu-list 0-3 ./gtest-parallel /tmp/standalone_test_binary_SRR_MID/srr_mid_test_executable --repeat=200
+ 1482  gdb /tmp/standalone_test_binary_SRR_MID/srr_mid_test_executable -p 1709829
+ 1483  gdb /tmp/standalone_test_binary_SRR_MID/srr_mid_test_executable -p 1710957
+ 1484  gdb /tmp/standalone_test_binary_SRR_MID/srr_mid_test_executable -p 1710927
+ 1485  ps -xa
+ 1486  ps -a
+ 1487  code .
+ 1488  ./srr_mid_test_executable sim_config.json 
+ 1489  bazel run --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/sensor_stub_utilities/astas_gt_trace_recorder /home/kepa/ddad/application/adp/bmw/simulation/test_utilities/ground_truth_provider/ground_truth_traces/static/host_with_object/host_with_static_traffic_vehicle.json
+ 1490  bazel run --config=adp_gcc9 //application/adp/bmw/tools/simulation/lime/lime_juicer
+ 1491  cd ddad/application/adp
+ 1492  code .
+ 1493  cd ..
+ 1494  code .
+ 1495  bazel build --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_azimuth_test 
+ 1496  cd ..
+ 1497  code .
+ 1498  bazel build --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_azimuth_test  --test_output=all
+ 1499  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_azimuth_test  --test_output=all
+ 1500  cd application/adp/
+ 1501  git status
+ 1502  git log -2
+ 1503  git reset --soft HEAD~1
+ 1504  git status
+ 1505  git checkout -b ct_wall_detections_azimuth
+ 1506  git status
+ 1507  git commit 
+ 1508  git status
+ 1509  git checkout ct_wall_srr_detections_fixes
+ 1510  git status
+ 1511  git checkout .
+ 1512  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test  --test_output=all
+ 1513  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test  --test_output=all
+ 1514  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test  --test_output=all
+ 1515  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test  --test_output=all
+ 1516  git status
+ 1517  git add .
+ 1518  git commit
+ 1519  git status
+ 1520  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1521  git status
+ 1522  git add .
+ 1523  git commit --amend
+ 1524  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1525  git push -f
+ 1526  git status
+ 1527  git checkout ct_wall_srr_detections_fixes
+ 1528  git checkout master
+ 1529  git pull
+ 1530  git checkout ct_wall_srr_detections_fixes
+ 1531  git rebase master
+ 1532  git rebase --continue
+ 1533  git status
+ 1534  git push -f
+ 1535  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test  --test_output=all
+ 1536  cd ..
+ 1537  git pull
+ 1538  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test  --test_output=all
+ 1539  cd application/adp/
+ 1540  git status
+ 1541  git add .
+ 1542  git commit --amend
+ 1543  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1544  git status
+ 1545  git push -f
+ 1546  git branch
+ 1547  git branch -d ct_wall/add_new_fixture_for_trace_based_test
+ 1548  git branch -d ct_wall/refactor_sensor_logic_model_tests_step2
+ 1549  git branch -d ct_wall_acceptance_flakiness_adcam
+ 1550  git branch -d ct_wall_acceptance_flakiness_frr
+ 1551  git branch -d ct_wall_adcam_flakiness_trace_input
+ 1552  git branch -d ct_wall_adcam_flakiness_with_traces
+ 1553  git branch -d t_wall_adcam_sm_traces
+ 1554  git branch -d ct_wall_adcam_sm_traces
+ 1555  git branch -d ct_wall_add_flakyness_adcam_supplier
+ 1556  git branch
+ 1557  git branch -D ct_wall_srr_fix_yaml2xml
+ 1558  git branch -D ct_wall_srr_obj_list_integ_gt_trace
+ 1559  branch
+ 1560  git branch
+ 1561  clear
+ 1562  git branch
+ 1563  git checkout ct_wall_detections_azimuth
+ 1564  git log -2
+ 1565  git reset --soft HEAD~1
+ 1566  git status
+ 1567  cd ..
+ 1568  code .
+ 1569  ls
+ 1570  gtest-parallel ./srr_mid_test_executable --repeat=3 --workers=30
+ 1571  ls
+ 1572  ./gtest-parallel/gtest_parallel ./srr_mid_test_executable --repeat=3 --workers=30
+ 1573  ls
+ 1574  cd gtest_parallel/
+ 1575  g
+ 1576  cd ..
+ 1577  ./gtest-parallel/gtest-parallel ./srr_mid_test_executable --repeat=3 --workers=30
+ 1578  cd gtest_parallel/
+ 1579  ./gtest-parallel ./srr_mid_test_executable --repeat=3 --workers=30
+ 1580  ./gtest-parallel ./standalone_test_binary_SRR_MID_Freez/srr_mid_test_executable --repeat=3 --workers=30
+ 1581  ./gtest-parallel ../standalone_test_binary_SRR_MID_Freez/srr_mid_test_executable --repeat=3 --workers=30
+ 1582  ./gtest-parallel srr_mid_test_executable --repeat=3 --workers=30
+ 1583  cd ..
+ 1584  ./gtest-parallel srr_mid_test_executable --repeat=3 --workers=30
+ 1585  clear
+ 1586  ls
+ 1587  ./gtest-parallel /home/kepa/Desktop/SRR_MID_standalone_freez/srr_mid_test_executable 
+ 1588  ./gtest-parallel /home/kepa/Desktop/SRR_MID_standalone_freez/srr_mid_test_executable --repeat=1 --workers=30
+ 1589  ./gtest-parallel /home/kepa/Desktop/SRR_MID_standalone_freez/srr_mid_test_executable --repeat=3 --workers=30
+ 1590  cat /proc/sys/kernel/threads-max
+ 1591  ls
+ 1592  ./gtest-parallel srr_mid_test_executable 
+ 1593  ./gtest-parallel ./srr_mid_test_executable 
+ 1594  ./gtest-parallel ./srr_mid_test_executable  --repeat=3 --workers=1000000
+ 1595  ./gtest-parallel ./srr_mid_test_executable  --repeat=3 --workers=513823
+ 1596  ./gtest-parallel ./srr_mid_test_executable  --repeat=3 --workers=513824
+ 1597  ./gtest-parallel ./srr_mid_test_executable  --repeat=10 --workers=513824
+ 1598  ps -a
+ 1599  gdb ./srr_mid_test_executable -p 1947910
+ 1600  cd ..
+ 1601  git submodule foreach --recursive git checkout master
+ 1602  git checkout master
+ 1603  git submodule foreach --recursive git pull
+ 1604  rpp update-workspace 
+ 1605  cd application/adp/
+ 1606  git checkout ct_wall_srr_detections_fixes
+ 1607  git rebase master
+ 1608  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --test_output
+ 1609  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --test_output=all
+ 1610  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test --test_output=all
+ 1611  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --test_output=all
+ 1612  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --test_output=all
+ 1613  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test --test_output=all
+ 1614  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --test_output=all
+ 1615  git status
+ 1616  git commit --amend
+ 1617  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1618  git status
+ 1619  git commit --amend
+ 1620  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1621  git status
+ 1622  git push -f
+ 1623  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test --test_output=all
+ 1624  git status
+ 1625  git commit --amend
+ 1626  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1627  git status
+ 1628  git push -f
+ 1629  git status
+ 1630  git branch
+ 1631  git checkout ct_wall_detections_azimuth
+ 1632  git checkout .
+ 1633  git checkout ct_wall_detections_azimuth
+ 1634  git status
+ 1635  git checkout ct_wall_detections_azimuth
+ 1636  cd ..
+ 1637  code .
+ 1638  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_azimuth_test --test_output=all
+ 1639  code .
+ 1640  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_azimuth_test --test_output=all
+ 1641  code .
+ 1642  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_azimuth_test --test_output=all 
+ 1643  git status
+ 1644  cd adp/
+ 1645  git status
+ 1646  git log -2
+ 1647  git status
+ 1648  git commit --amend
+ 1649  git status
+ 1650  git checkout ct_wall_srr_detections_fixes
+ 1651  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --test_output=all 
+ 1652  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs --test_output=all 
+ 1653  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test --test_output=all 
+ 1654  git status
+ 1655  git add .
+ 1656  git commit --amend
+ 1657  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1658  git status
+ 1659  git push -f
+ 1660  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --test_output=all 
+ 1661  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test --test_output=all 
+ 1662  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --test_output=all 
+ 1663  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --test_output=all 
+ 1664  git status
+ 1665  git add .
+ 1666  git commit --amend
+ 1667  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1668  git status
+ 1669  git add .
+ 1670  git commit --amend
+ 1671  git push -f
+ 1672  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1673  git checkout master
+ 1674  git pull
+ 1675  git status
+ 1676  git branch
+ 1677  git checkout ct_wall_detections_azimuth
+ 1678  git rebase master
+ 1679  git rebase --abort
+ 1680  git rebase master
+ 1681  git rebase --continue
+ 1682  git rebase --abort
+ 1683  git checkout master
+ 1684  git checkout -b ct_wall_srr_detections_part_2
+ 1685  git branch
+ 1686  git checkout ct_wall_benchmark_test_supplier
+ 1687  bazel test --config=adp_gcc9 //application/adp/test/evaluation/stubs_benchmark_tests:stubs_benchmark_with_astas_tests --test_output=all 
+ 1688  bazel test --config=adp_gcc9 //application/adp/test/evaluation/stubs_benchmark_tests:stubs_benchmark_with_astas_tests --test_output=all --action_env="avariable=1"
+ 1689  bazel run --config=adp_gcc9 //application/adp/test/evaluation/stubs_benchmark_tests:stubs_benchmark_with_astas_tests --test_output=all
+ 1690  git status
+ 1691  git checkout ct_wall_adcam_211_A520ATS_002_052_002_v01_adp
+ 1692  git checkout master
+ 1693  git pull
+ 1694  git checkout ct_wall_adcam_211_A520ATS_002_052_002_v01_adp
+ 1695  git rebase master
+ 1696  git rebase --continue
+ 1697  git status
+ 1698  git push -f
+ 1699  run //application/adp/tools/user_local_gate:check_all_basic
+ 1700  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1701  git checkout master
+ 1702  cd ..
+ 1703  rpp update-workspace 
+ 1704  cd application/adp/
+ 1705  git status
+ 1706  git checkout -b ct_wall_adcam_integration
+ 1707  code .
+ 1708  git status
+ 1709  git add .
+ 1710  git commit
+ 1711  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1712  git status
+ 1713  git add .
+ 1714  git commit --amend
+ 1715  git push -f
+ 1716  git push --set-upstream origin ct_wall_adcam_integration
+ 1717  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1718  bazel test --compilation_mode=opt --config=adp_gcc9 --config=platform_ros --features=-debug_symbols --remote_retries=3 --nobuild_runfile_links --remote_instance_name=local --remote_upload_local_results --remote_timeout=300s --remote_local_fallback=true --sandbox_base=/bazel/sandbox/ --//application/adp/bazel/empty_config:noop --workspace_status_command=/bin/true --explain=/workspace/bazel_explains/explain_bazel_test_adp_fast_tests.txt --test_tag_filters=-broken,-matlab,-sctf,-unstable --test_timeout=120,600,900,3600 --test_timeout_filters=short,moderate --build_tests_only --isatty=0 --terminal_columns=80 --incompatible_allow_tags_propagation --incompatible_disable_native_android_rules --incompatible_no_implicit_file_export --incompatible_exclusive_test_sandboxed --incompatible_default_to_explicit_init_py --noincompatible_disable_depset_items --noincompatible_disallow_empty_glob --noincompatible_enable_cc_toolchain_resolution --noincompatible_use_platforms_repo_for_constraints --noincompatible_disable_target_provider_fields --noincompatible_load_cc_rules_from_bzl --noincompatible_load_java_rules_from_bzl --noincompatible_load_proto_rules_from_bzl --noincompatible_load_python_rules_from_bzl --javabase=@bazel_tools//tools/jdk:remote_jdk11 --java_toolchain=@bazel_tools//tools/jdk:remote_toolchain --incompatible_strict_action_env --workspace_status_command=./scripts/workspace_status/workspace_status.sh --test_env=GTEST_COLOR=1 --verbose_failures --sandbox_tmpfs_path=/tmp --host_cxxopt=-std=c++14 --cxxopt=-std=c++14 --define target_platform=ROS --start_end_lib=False --test_env=PYTHONDONTWRITEBYTECODE=1 --define=sct=yes -- //application/adp/test/service_test/fnt_smoke_test:awa_mi_activation_hil_mpad_smoke_test
+ 1719  bazel test --compilation_mode=opt --config=adp_gcc9 //application/adp/test/service_test/fnt_smoke_test:awa_mi_activation_hil_mpad_smoke_test
+ 1720  bazel run --config=adp_gcc9 //application/adp/bmw/tools/simulation/lime/lime_juicer 
+ 1721  git status
+ 1722  git add .
+ 1723  git commit --amend
+ 1724  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1725  git status
+ 1726  git push -f
+ 1727  cd ddad/application/adp/
+ 1728  code .
+ 1729  git status
+ 1730  git log -2
+ 1731  git add .
+ 1732  git commit
+ 1733  git checkout ct_wall_srr_detections_fixes
+ 1734  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test  --test_output=all
+ 1735  git status
+ 1736  git commit
+ 1737  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1738  git status
+ 1739  git commit --amend
+ 1740  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1741  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrian_test  --test_output=all
+ 1742  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test  --test_output=all
+ 1743  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test  --test_output=all
+ 1744  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test  --test_output=all
+ 1745  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test  --test_output=all
+ 1746  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test  --test_output=all
+ 1747  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test  --test_output=all
+ 1748  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test  --test_output=all
+ 1749  git commit
+ 1750  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1751  git status
+ 1752  git add .
+ 1753  git commit --amend
+ 1754  git push -f
+ 1755  git push --set-upstream origin ct_wall_srr_detections_part_2
+ 1756  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1757  git status
+ 1758  git add .
+ 1759  git commit --amend
+ 1760  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1761  git push -f
+ 1762  cd ..
+ 1763  code .
+ 1764  cd application/adp/
+ 1765  clear
+ 1766  ls
+ 1767  git status
+ 1768  git checkout master
+ 1769  git pull
+ 1770  git status
+ 1771  git checkout ct_wall_supplier_benchmark
+ 1772  cd ..
+ 1773  code .
+ 1774  bazel test --config=adp_gcc9 //application/adp/test/evaluation/stubs_benchmark_tests:stubs_supplier_benchmark_with_astas_tests
+ 1775  ./bazel-bin/application/adp/test/evaluation/stubs_benchmark_tests/stubs_supplier_benchmark_with_astas_tests
+ 1776  bazel run --config=adp_gcc9 //application/adp/test/evaluation/stubs_benchmark_tests:stubs_internal_benchmark_with_astas_tests
+ 1777  bazel run --config=adp_gcc9 //application/adp/test/evaluation/stubs_benchmark_tests:stubs_benchmark_with_astas_tests
+ 1778  cd application/adp/
+ 1779  git status
+ 1780  git checkout -b ct_wall_benchmark_test_supplier
+ 1781  git add .
+ 1782  git commit
+ 1783  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1784  git status
+ 1785  git add .
+ 1786  git commit --amend
+ 1787  git push -f
+ 1788  git push --set-upstream origin ct_wall_benchmark_test_supplier
+ 1789  git status
+ 1790  git add .
+ 1791  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1792  git status
+ 1793  git commit --amend
+ 1794  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1795  git push -f
+ 1796  git checkout
+ 1797  git checkout master
+ 1798  git pull
+ 1799  cd ..
+ 1800  cd ci_config/
+ 1801  code .
+ 1802  gcc sfinae.cpp 
+ 1803  g++
+ 1804  gcc 
+ 1805  gcc --version
+ 1806  gcc -std=c++17 sfinae.cpp 
+ 1807  gcc -std=c++17 sfinae.cpp -lstdc++
+ 1808  gcc -std=c++17 sfinae.cpp -lstdc++ && ./a.out
+ 1809  cd application/adp/
+ 1810  git status
+ 1811  git add .
+ 1812  git commit
+ 1813  git status
+ 1814  git push 
+ 1815  git push --set-upstream origin ct_wall_srr_binaries_classification
+ 1816  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --test_output=all
+ 1817  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --test_output=all --runs_per_test=48
+ 1818  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --test_output=all --runs_per_test=48
+ 1819  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --test_output=all --runs_per_test=10
+ 1820  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:all --test_output=all 
+ 1821  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --test_output=all 
+ 1822  clear
+ 1823  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test --test_output=all 
+ 1824  bazel run --config=adp_gcc9 //application/adp/test/service_test/sensor_model_tests/benchmark_tests:sensor_logic_model_benchmark_binary_test
+ 1825  cd ..
+ 1826  cd 
+ 1827  cd data-management/
+ 1828  code .
+ 1829  git status
+ 1830  git push -f
+ 1831  cd ..
+ 1832  cd ddad/
+ 1833  cd application/adp/
+ 1834  cd ..
+ 1835  git log -1
+ 1836  code .
+ 1837  cd ~
+ 1838  cd data-management/
+ 1839  code .
+ 1840  cd ..
+ 1841  cd Documents/
+ 1842  ls
+ 1843  cd placer-saludable-inventario/
+ 1844  code .
+ 1845  nodemon bin/ww
+ 1846  nodemon bin/www
+ 1847  fuser -n tcp -k 3000
+ 1848  nodemon bin/www
+ 1849  cd ..
+ 1850  code .
+ 1851  git status
+ 1852  git commit --amend
+ 1853  git push -f
+ 1854  git status
+ 1855  git commit --amend
+ 1856  git push -f
+ 1857  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test --test_filter="*GivenStaticTrafficVehicle_ExpectCorrectFrontRightDetectionHeader*"
+ 1858  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test --test_filter="*GivenStaticTrafficVehicle_ExpectCorrectFrontLefttDetectionHeader*"
+ 1859  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test --test_filter="*GivenStaticTrafficVehicle_ExpectCorrectFrontLeftDetectionHeader*" --test_output=all
+ 1860  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=1 --test_output=all --test_filter="*GivenMultiplePedestrians_ExpectExistenceProbabilities*"
+ 1861  bazel test --config=adp_gcc9  //application/adp/bmw/simulation/sim_core/sensor_model_core_stub/sensor_model/test/srr_mid:test_common_gt --runs_per_test=1 --test_output=all --test_filter="*GivenCommonGroundTruth_CheckMountingPosition_ExpectCorrectlyFilled*
+ 1862  [A
+ 1863  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticPedestrianOnTheRight_ExpectCorrectHeaderOnFrontLeft*
+ 1864  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticPedestrianOnTheRight_ExpectCorrectHeaderOnFrontRight*
+ 1865  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all test_filter="*GivenMovingPedestrianOnTheLeft_ExpectCorrectDetectionsOnFrontLeft*"
+ 1866  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenMovingPedestrianOnTheLeft_ExpectCorrectDetectionsOnFrontLeft*"
+ 1867  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenMovingPedestrianOnTheLeft_ExpectCorrectDetectionsOnFrontLeft*"
+ 1868  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenMovingPedestrianOnTheLeft_ExpectCorrectAzimuthAndDistanceOnFrontLeft*"
+ 1869  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenMovingPedestrianOnTheLeft_ExpectCorrectPedestrianVelocityOnFrontRight*"
+ 1870  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectHeaderOnFrontLeft*
+ 1871  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticTrafficVehicleOnTheLeft_ExpectExistenceProbabilityOnFrontLeft*"
+ 1872  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --runs_per_test=1 --test_output=all  --test_filter="*GivenStaticTrafficVehicleOnTheLeft_ExpectExistenceProbabilityOnFrontRight*"
+ 1873  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticTrafficVehicleOnTheLeft_ExpectExistenceProbabilityOnFrontRight*"
+ 1874  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficVehicleTooFar_ExpectExpectZeroObjectDetectedOnFrontLeft*"
+ 1875  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficVehicleTooFar_ExpectExpectZeroObjectDetectedOnFrontRight*"
+ 1876  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticTrafficVehicleOnTheLeft_ExpectCorrectDetectionsOnFrontRight*"
+ 1877  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all  --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectDetectionsOnTheRight*"
+ 1878  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectDetectionsOnTheRight*"
+ 1879  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test --runs_per_test=1 --test_output=all " --test_filter="*GivenTrafficSignOnTheLeft_ExpectCorrectDetectionsOnFrontLeft*"
+ 1880  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectHeaderOnFrontLeft*"
+ 1881  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectHeaderOnFrontLeft*"
+ 1882  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectHeaderOnFrontRight*"
+ 1883  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectHeaderOnFrontRight*"
+ 1884  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all  --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectDetectionsOnTheRight*"
+ 1885  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectDetectionsOnTheRight*"
+ 1886  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all  --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectDetectionsOnTheLeft*"
+ 1887  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylonInFrontOfHost_ExpectCorrectDetectionsOnTheLeft*"
+ 1888  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficSignOnTheLeft_ExpectCorrectHeaderOnFrontLeft*"
+ 1889  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficSignOnTheLeft_ExpectCorrectHeaderOnFrontLeft*"
+ 1890  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficSignOnTheLeft_ExpectCorrectHeaderOnFrontRight*"
+ 1891  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:traffic_signs_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficSignOnTheLeft_ExpectCorrectDetectionsOnFrontRight*"
+ 1892  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:vehicle_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticTrafficVehicleOnTheLeft_ExpectExistenceProbabilityOnFrontLeft*
+ 1893  cd ..
+ 1894  code .
+ 1895  git status
+ 1896  code .
+ 1897  bazel run //application/adp/tools/user_local_gate:
+ 1898  code .
+ 1899  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylon_ExpectCorrectPosition*"
+ 1900  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=1 --test_output=all
+ 1901  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test --runs_per_test=1 --test_output=all --test_filter="*GivenPylon_ExpectCorrectDimensions*"
+ 1902  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=1 --test_output=all --test_filter="*GivenPedestrian_ExpectExistenceProbability*"
+ 1903  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=1 --test_output=all --test_filter="*GivenMultiplePedestrians_ExpectExistenceProbabilities*"
+ 1904  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=1 --test_output=all --test_filter="*GivenAPedestrianAtCertainDistance_ExpectCorrectPosition*"
+ 1905  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=1 --test_output=all --test_filter="*GivenPedestrianAtCertainDistance_ExpectCorrectAbsoluteVelocity*"
+ 1906  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=1 --test_output=all --test_filter="*GivenPedestrianAtCertainDistance_ExpectCorrectDimensions*"
+ 1907  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:traffic_signs_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficSignAtVariousDistances_ExpectExistenceProbability*"
+ 1908  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=1 --test_output=all --test_filter="*GivenPedestrianAtCertainDistance_ExpectCorrectDimensions*"
+ 1909  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:traffic_signs_test --runs_per_test=1 --test_output=all --test_filter="*GivenMultipleTrafficSigns_ExpectExistenceProbabilities*"
+ 1910  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:traffic_signs_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficSignAtFixedDistances_ExpectCorrectPosition*"
+ 1911  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:traffic_signs_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficSignAtFixedDistances_ExpectCorrectDimensions*"
+ 1912  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_dynamics_test --runs_per_test=1 --test_output=all --test_filter="*GivenDynamicGroundtruthInput_ExpectedCorrectDetectedDynamics*"
+ 1913  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficVehicle_ExpectExistenceProbability*"
+ 1914  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficVehicleAtVariousDistances_ExpectExistenceProbability*"
+ 1915  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficVehicleTooFar_ExpectExistenceProbabilityZero*"
+ 1916  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --runs_per_test=1 --test_output=all --test_filter="*GivenMultipleTrafficVehicles_ExpectExistenceProbabilities*"
+ 1917  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficVehicleAtCertainDistance_ExpectCorrectPosition*"
+ 1918  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficVehicleAtCertainDistance_ExpectCorrectDimensions*"
+ 1919  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --runs_per_test=1 --test_output=all --test_filter="*GivenTrafficVehicleAtCertainDistance_ExpectCorrectPosition*"
+ 1920  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --runs_per_test=1 --test_output=all --test_filter="*GivenGroundTruth_ExpectObjectOccluded*"
+ 1921  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:basic_test --runs_per_test=1 --test_output=all --test_filter="*GivenCommonGroundTruth_ExpectDetectionListCount*"
+ 1922  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:basic_test --runs_per_test=1 --test_output=all --test_filter="*GivenCommonGroundTruth_ExpectedValidHeader*"
+ 1923  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:guardrail_test --runs_per_test=1 --test_output=all --test_filter="*GivenGroundTruth_WithGuardRails_ExpectDetectedGuardrails*"
+ 1924  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test--runs_per_test=1 --test_output=all 
+ 1925  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test--runs_per_test=1 --test_output=all
+ 1926  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_object_types_test --runs_per_test=1 --test_output=all
+ 1927  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test  --test_output=all --runs_per_test=100
+ 1928  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test --test_output=all --runs_per_test=100
+ 1929  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=100 --test_output=all
+ 1930  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:pedestrian_test --runs_per_test=1 --test_output=all
+ 1931  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:traffic_signs_test --runs_per_test=100 --test_output=all
+ 1932  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:vehicles_test --runs_per_test=100 --test_output=all
+ 1933  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test  --test_filter="*GivenStaticTrafficVehicle_ExpectCorrectFrontRightDetectionHeader*"
+ 1934  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test --test_filter="*GivenStaticTrafficVehicle_ExpectCorrectFrontRightDetectionHeader*"
+ 1935  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test  --test_filter="*GivenStaticTrafficVehicle_ExpectCorrectFrontLeftDetectionHeader*"
+ 1936  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:header_test --test_filter="*GivenStaticTrafficVehicle_ExpectCorrectFrontLeftDetectionHeader*"
+ 1937  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all"test_filter="*GivenStaticPedestrianOnTheRight_ExpectCorrectHeaderOnFrontLeft*
+ 1938  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticPedestrianOnTheRight_ExpectCorrectHeaderOnFrontLeft*
+ 1939  uit
+ 1940  quit
+ 1941  exit
+ 1942  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticPedestrianOnTheRight_ExpectCorrectHeaderOnFrontLeft*"
+ 1943  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all test_filter="*GivenStaticPedestrianOnTheRight_ExpectCorrectHeaderOnFrontRight*
+ 1944  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all 
+ 1945  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticPedestrianOnTheRight_ExpectCorrectHeaderOnFrontRight*
+ 1946  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenStaticPedestrianOnTheRight_ExpectCorrectHeaderOnFrontRight*"
+ 1947  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenMovingPedestrianOnTheRight_ExpectCorrectDetectionsOnFrontRight*"
+ 1948  bazel test --config=adp_gcc9 --config=platform_ros -c opt //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/detection_list:pedestrians_test --runs_per_test=1 --test_output=all --test_filter="*GivenMovingPedestrianOnTheLeft_ExpectCorrectDetectionsOnFrontLeft*
+ 1949  cd ..
+ 1950  gdb bazel-bin/application/adp/test/service_test/sensor_model_tests/benchmark_tests/sensor_logic_model_benchmark_test
+ 1951  cd application/adp/
+ 1952  git status
+ 1953  git commit 
+ 1954  git status
+ 1955  git commit --amend
+ 1956  bazel run //application/adp/tools/user_local_gate:check_all_basic
+ 1957  git status
+ 1958  git push -f
+ 1959  cd ..
+ 1960  code .
+ 1961  cd ddad/application/adp/
+ 1962  git status
+ 1963  git checkout -b ct_wall_object_list_follow_up
+ 1964  git status
+ 1965  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test
+ 1966  git status
+ 1967  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test
+ 1968  git status
+ 1969  bazel test --config=adp_gcc9 //application/adp/bmw/simulation/sim_nodes/srr_mid_stub/test/integration_test/supplier/object_list:stationary_objects_test
+ 1970  git status
+ 1971  git commit
+ 1972  git checkout master
+ 1973  cd ..
+ 1974  git status master
+ 1975  git checkout master
+ 1976  git pull
+ 1977  rpp update-workspace 
+ 1978  rpp logout
+ 1979  rpp login
+ 1980  git pull
+ 1981  rpp what
+ 1982  rpp login
+ 1983  rpp upgrade-system
+ 1984  apt-get update --fix--missing
+ 1985  sudo apt-get update
+ 1986  sudo apt --fix-missing update
+ 1987  rpp upgrade-system
+ 1988  sudo apt autoremove
+ 1989  sudo apt upgrade
+ 1990  clear
+ 1991  rpp upgrade-system
+ 1992  reboot
+ 1993  cd ddad/
+ 1994  rpp upgrade-system
+ 1995  mkdir coding_garden
+ 1996  cd coding_garden/
+ 1997  mkdir inventory
+ 1998  cd inventory/
+ 1999  code .
+ 2000  cd ..
+ 2001  mkdir full_stack_app
+ 2002  cd full_stack_app/
+ 2003  cd ..
+ 2004  rm full_stack_app/
+ 2005  rm -d full_stack_app/
+ 2006  ls
+ 2007  mkcd CRUD
+ 2008  mkdir CRUD
+ 2009  cd CRUD
+ 2010  mkdir server
+ 2011  clear
+ 2012  cd server 
+ 2013  express --git --hbs .
+ 2014  cd ..
+ 2015  npm install express --save
+ 2016  cd server
+ 2017  express --git --hbs .
+ 2018  sudo apt install node-express-generator
+ 2019  express --git --hbs .
+ 2020  express --help
+ 2021  express -h
+ 2022  npx express-generator
+ 2023  express -h
+ 2024  npm install
+ 2025  express --git --hbs
+ 2026  express --hbs
+ 2027  cd ..
+ 2028  rm -rf server
+ 2029  express server
+ 2030  code .
+ 2031  express -v
+ 2032  express --version
+ 2033  ls
+ 2034  rm -rf server
+ 2035  express --view=hbs server
+ 2036  cd server
+ 2037  npm install
+ 2038  cd ..
+ 2039  cd ~/Documents/coding_garden/CRUD/
+ 2040  express --view=hbs server
+ 2041  sudo npm install -g express-generator
+ 2042  express --view=hbs --git server
+ 2043  express --view=hbs  server
+ 2044  sudo npm uninstall express-generator
+ 2045  npm install -g npm 
+ 2046  sudo npm install -g npm 
+ 2047  sudo npm install -g express-generator
+ 2048  npm audit fix --force
+ 2049  express --view=hbs  server
+ 2050  sudo apt update
+ 2051  sudo apt install nodejs
+ 2052  node -v
+ 2053  express --view=hbs  server
+ 2054  sudo apt-get install nodejs-legacy
+ 2055  express --view=hbs  server
+ 2056  echo $PATH
+ 2057  sudo apt install npm
+ 2058  sudo apt-get update
+ 2059  express --view=hbs  server
+ 2060  sudo apt install nodejs
+ 2061  whereis node
+ 2062  ln -s /usr/include/node /usr/bin/nodejs
+ 2063  sudo ln -s /usr/include/node /usr/bin/nodejs
+ 2064  express --view=hbs  server
+ 2065  sudo express --view=hbs  server
+ 2066  cd server
+ 2067  npm install
+ 2068  npm audit
+ 2069  ls
+ 2070  yarn
+ 2071  sudo apt install cmdtest
+ 2072  yarn
+ 2073  npm start
+ 2074  sudo kill -9 `sudo lsof -t -i:3000`
+ 2075  nodemon bin/www
+ 2076  sudo kill -9 `sudo lsof -t -i:3000`
+ 2077  nodemon bin/www
+ 2078  clear
+ 2079  sudo kill -9 `sudo lsof -t -i:3000`
+ 2080  nodemon bin/www
+ 2081  sudo kill -9 `sudo lsof -t -i:3000`
+ 2082  nodemon bin/www
+ 2083  sudo kill -9 `sudo lsof -t -i:3000`
+ 2084  nodemon bin/www
+ 2085  sudo kill -9 `sudo lsof -t -i:3000`
+ 2086  npm i method-override
+ 2087  sudo npm i method-override
+ 2088  nodemon bin/www
+ 2089  yarn add method-override
+ 2090  sudo yarn add method-override
+ 2091  nodemon bin/www
+ 2092  sudo kill -9 `sudo lsof -t -i:3000`
+ 2093  nodemon bin/www
+ 2094  sudo kill -9 `sudo lsof -t -i:3000`
+ 2095  nodemon bin/www
+ 2096  sudo kill -9 `sudo lsof -t -i:3000`
+ 2097  nodemon bin/www
+ 2098  sudo kill -9 `sudo lsof -t -i:3000`
+ 2099  yarn
+ 2100  nodemon bin/www
+ 2101  history >logs.log
